@@ -1,5 +1,4 @@
-# Assignment2
-John Lemon's Haunted Jaunt - Unity Game Starter Project
+# John Lemon's Haunted Jaunt - Unity Project
 Welcome to my GitHub repository for John Lemon's Haunted Jaunt, a 3D endless runner game that I created as part of my university coursework.
 
 About the Game
